@@ -46,8 +46,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Mover.cs" />
      <Compile Include="Assets\Scripts\RealityController.cs" />
+     <Compile Include="Assets\Scripts\ShotController.cs" />
      <Compile Include="Assets\Scripts\TouchShooter.cs" />
      <Compile Include="Assets\VolumetricLines\ExampleScenes\ExampleScripts\CannonBehavior.cs" />
      <Compile Include="Assets\VolumetricLines\ExampleScenes\ExampleScripts\CreateSinShapedLineStrip.cs" />

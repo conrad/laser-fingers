@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TouchShooter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShotController.cs">
     <Files>
-      <File FileName="Assets/Scripts/Mover.cs" Line="18" Column="26" />
-      <File FileName="Assets/Scripts/TouchShooter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TouchShooter.cs" Line="16" Column="7" />
+      <File FileName="Assets/Scripts/RealityController.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/ShotController.cs" Line="33" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
